@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Plants</string>
+
+    <string name="plant1">Ficus elastica \'Tineke\'</string>
+    <string name="description1">Ficus elastica \'Tineke\' is a tropical plant with variegated leaves. It is also known as the Rubber Tree. This plant adds a touch of elegance to any space with its glossy, dark green leaves that have creamy white or yellowish markings. It is a popular choice for indoor gardening and is relatively easy to care for.</string>
+    <string name="plant2">Crassula arborescens</string>
+    <string name="description2">Crassula arborescens, commonly known as the Silver Dollar Jade Plant, is a succulent native to South Africa. It is characterized by its fleshy, round leaves that have a silvery-gray color. This plant is valued for its unique appearance and is often grown as a decorative houseplant. It requires bright light and minimal watering.</string>
+    <string name="plant3">Sansewieria \'Moonshine\'</string>
+    <string name="description3">Sansevieria \'Moonshine\', also known as Snake Plant or Mother-in-Law\'s Tongue, is a popular indoor plant. It features long, upright leaves that are a pale silvery-green in color. This plant is known for its air-purifying qualities and ability to thrive in low light conditions. It is a low-maintenance plant, making it ideal for beginners.</string>
+    <string name="plant4">Epipremnum aureum</string>
+    <string name="description4">Epipremnum aureum, commonly known as Pothos or Devil\'s Ivy, is a vine-like plant that is often grown indoors. It has heart-shaped leaves that are variegated in shades of green and yellow. Pothos is highly adaptable and can thrive in a variety of lighting conditions. It is a popular choice for hanging baskets or trailing down shelves.</string>
+    <string name="plant5">Philodendron erubescens</string>
+    <string name="description5">Philodendron erubescens, also known as Red-leaf Philodendron, is a tropical plant native to Colombia. It is characterized by its large, heart-shaped leaves that are a deep green color with reddish undersides. This plant adds a vibrant touch to any indoor space and is relatively easy to care for. It thrives in bright, indirect light.</string>
+    <string name="plant6">Philodendron \'Brasil\'</string>
+    <string name="description6">Philodendron \'Brasil\' is a popular trailing houseplant with heart-shaped leaves. It is a cultivar of Philodendron hederaceum and is known for its attractive variegation. The leaves are a vibrant green color with yellow stripes or patches. This plant is relatively low-maintenance and can thrive in various light conditions, making it a great choice for indoor gardening enthusiasts.</string>
+    <string name="plant7">Satin pothos</string>
+    <string name="description7">Satin pothos, also known as Scindapsus pictus, is a trailing plant that is prized for its velvety, heart-shaped leaves. The leaves have a satin-like texture and are typically a deep green color with silver or white markings. This plant is an excellent choice for hanging baskets or as a climbing vine. It prefers bright, indirect light and moderate watering.</string>
+    <string name="plant8">Aeschynanthus marmoratus</string>
+    <string name="description8">Aeschynanthus marmoratus, commonly known as Lipstick Plant, is a tropical plant native to Southeast Asia. It is named for its vibrant red flowers that resemble lipstick tubes. The plant has glossy, dark green leaves and trailing stems. It requires bright, indirect light and moderate humidity to thrive. The Lipstick Plant adds a splash of color to any indoor garden.</string>
+
+</resources>
